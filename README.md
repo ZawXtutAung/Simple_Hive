@@ -14,7 +14,7 @@ dev_dependencies:
   build_runner: ^[version]
 ```
 ```$Terminal
--bash: flutter pub get && flutter pub run build_runner build --delete-conflicting-outputs
+Terminal: $flutter pub get && flutter pub run build_runner build --delete-conflicting-outputs
 ```
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
